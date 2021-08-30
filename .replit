@@ -1,0 +1,1 @@
+run = "g++ test.cpp -o output; ./output"
